@@ -1,0 +1,16 @@
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\terrain-generator.exe.config
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\terrain-generator.exe
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\terrain-generator.pdb
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain-generator.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain_generator.Form1.resources
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain_generator.Properties.Resources.resources
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain-generator.csproj.GenerateResource.cache
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain-generator.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain-generator.exe
+C:\Users\wikto\source\repos\terrain-generator\terrain-generator\obj\x86\Debug\terrain-generator.pdb
