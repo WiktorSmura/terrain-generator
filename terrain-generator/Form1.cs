@@ -111,12 +111,6 @@ namespace terrain_generator
             this.Invalidate();
         }
 
-        private void DrawBox(float yaw, float pitch, float roll, float x, float y, float z)
-        {
-            device.Transform.World = Matrix.RotationYawPitchRoll(yaw, pitch, roll) * (Matrix.Translation(x, y, z));
-            device.DrawIndexedPrimitives(PrimitiveType.TriangleList, 0,0,8,0,indices.Length/3);
-        }
-
         private void GenerateVertex()
         {
             verts = new CustomVertex.PositionColored[vertCount];
